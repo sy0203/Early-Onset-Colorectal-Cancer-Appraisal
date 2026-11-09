@@ -2,7 +2,7 @@
 
 **Evaluating the strength of epidemiological evidence from an Ontario case–control study.**
 
-[Read the full appraisal](Critical_Appraisal.docx) · [View the original study](https://doi.org/10.1007/s10552-021-01456-8) · [Author's GitHub](https://github.com/sy0203)
+[Read the full appraisal](Critical_Appraisal.pdf) · [View the original study](https://doi.org/10.1007/s10552-021-01456-8) · [Author's GitHub](https://github.com/sy0203)
 
 ## Overview
 
