@@ -79,7 +79,7 @@ The study offers useful evidence of associations worth investigating further. Co
 
 | File | Description |
 | --- | --- |
-| [Critical_Appraisal.docx](Critical_Appraisal.docx) | Full report covering the study rationale, methods, results and critical discussion |
+| [Critical_Appraisal.docx](Critical_Appraisal.pdf) | Full report covering the study rationale, methods, results and critical discussion |
 | [README.md](README.md) | Project overview, selected study findings and appraisal summary |
 
 The report can be opened in Microsoft Word or another compatible document viewer.
